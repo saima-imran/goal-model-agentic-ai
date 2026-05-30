@@ -4,8 +4,7 @@ Author: Saima Imran
 Date: May 2026
 
 GitHub: github.com/saima-imran
-
-Context: Chalmers University PhD Application 2026
+Context: Learning Project
 
 Research Question
 How do we make the goals and intentions of agentic AI systems explicit, observable, and systematically verifiable?
