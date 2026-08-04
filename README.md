@@ -59,4 +59,4 @@ networkx: goal tree structure
 numpy: satisfaction scoring
 Google Colab: execution environment
 Author
-Saima Imran PhD Applicant — Intentional Monitoring of Agentic AI Software Chalmers University of Technology, Gothenburg github.com/saima-imran saimaimran4822@hotmail.com
+Saima Imran  — Intentional Monitoring of Agentic AI Software ,  github.com/saima-imran saimaimran4822@hotmail.com
